@@ -11,7 +11,7 @@
 * `optional.h` — реализация `Optional<T>`.
 * `main.cpp` — набор тестов, проверяющих корректность реализации.
 
-## � Компиляция и запуск
+##  Компиляция и запуск
 
 ```bash
 g++ -std=c++20 -Wall -Wextra -pedantic main.cpp -o optional_test
